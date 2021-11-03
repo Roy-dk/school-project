@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DHT11" targetName="DHT11.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa160970-ec61-48cb-b0b1-d3c5397a5ac1" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="237" />
+        <option value="102" />
+        <option value="988" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="名称" />
+        <option value="值" />
+        <option value="描述" />
+      </list>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zyZJivl7eJLFlmBvJ3NZUP4Gh1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Core/Inc" />
+    <property name="serialMonitor.commands" value="alarm_temperature=100;&#10;date=11,11,11,11;&#10;alarm_temperature=1;&#10;jj&#10;111&#10;+++&#10;AT+GMR&#10;AT+RST&#10;AT+MGR&#10;AT+" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Core/Inc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Core/Inc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD DHT11">
+    <configuration name="DHT11.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DHT11" TARGET_NAME="DHT11.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DHT11" RUN_TARGET_NAME="DHT11.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.DHT11.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD DHT11" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fa160970-ec61-48cb-b0b1-d3c5397a5ac1" name="变更" comment="" />
+      <created>1635122217292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635122217292</updated>
+      <workItem from="1635122220147" duration="4532000" />
+      <workItem from="1635126851717" duration="573000" />
+      <workItem from="1635127597837" duration="2589000" />
+      <workItem from="1635226063900" duration="330000" />
+      <workItem from="1635229746896" duration="23587000" />
+      <workItem from="1635269900959" duration="6452000" />
+      <workItem from="1635295675280" duration="10444000" />
+      <workItem from="1635308819063" duration="3452000" />
+      <workItem from="1635399048107" duration="8018000" />
+      <workItem from="1635439235599" duration="3051000" />
+      <workItem from="1635443189250" duration="3272000" />
+      <workItem from="1635488431066" duration="4253000" />
+      <workItem from="1635575287363" duration="605000" />
+      <workItem from="1635581683508" duration="11397000" />
+      <workItem from="1635608220433" duration="596000" />
+      <workItem from="1635656289170" duration="2000" />
+      <workItem from="1635815570579" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="buf" language="ObjectiveC" />
+        <watch expression="cmd_recv + i" language="ObjectiveC" />
+        <watch expression="RTC_DateStruct" language="ObjectiveC" />
+        <watch expression="ff" language="ObjectiveC" />
+        <watch expression="ADC_all/ADC_all" language="ObjectiveC" />
+        <watch expression="ADC_count" language="ObjectiveC" />
+        <watch expression="*alarm_humidity" language="ObjectiveC" />
+        <watch expression="*alarm_temperature" language="ObjectiveC" />
+        <watch expression="adc_value" language="ObjectiveC" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Core/Src/smg.c" line="19">
+        <watch expression="wei" language="ObjectiveC" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
